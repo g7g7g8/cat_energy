@@ -1,0 +1,11 @@
+body {
+  font-size: 5px;
+}
+body ul {
+  display: flex;
+}
+body ul li {
+  color: aqua;
+  list-style: none;
+  margin-left: 10px;
+}
